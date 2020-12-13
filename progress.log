@@ -1,0 +1,7 @@
+- Build frontend project structure 
+- Adjust framework and theme to the project
+- Make login screen
+- Make request and service to retrieve information from a profile
+- Add SPA to the project
+- Create back to project, this is other repository because will be a different container
+- Make middleware to fetch data to avoid CORS issue
